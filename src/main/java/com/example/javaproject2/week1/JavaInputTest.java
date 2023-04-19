@@ -10,5 +10,6 @@ public class JavaInputTest {
 
         javaInput.readAChar();
         javaInput.readTwoChars();
+
     }
 }
